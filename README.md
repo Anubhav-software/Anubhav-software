@@ -1,14 +1,14 @@
 # 💻 Anubhav Rawat — Full-Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pushpraj-rmx)
-[![GitHub](https://img.shields.io/badge/GitHub-pushpraj--rmx-black?style=flat-square&logo=github)](https://github.com/pushpraj-rmx)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:pushprajdwivedi001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anubhav-rawat-40162422b/)
+[![GitHub](https://img.shields.io/badge/GitHub-pushpraj--rmx-black?style=flat-square&logo=github)](https://github.com/Anubhav-software)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:rawatanubhav085@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&style=flat-square&color=blue)
 
 ---
 
 ## 🚀 About Me  
-I’m a **Full-Stack & DevOps Engineer** passionate about building **scalable, reliable systems**.  
+I’m a **Full-Stack** passionate about building **scalable, reliable systems**.  
 Proficient in **React, Node.js, Express.js, and TypeScript** with strong supporting skills in **Linux, CI/CD pipelines, GitHub Actions, and VPS management**.  
 I love turning complex requirements into **clean, efficient, and high-impact solutions**.
 
@@ -33,6 +33,7 @@ I love turning complex requirements into **clean, efficient, and high-impact sol
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **DevOps & Tools**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -45,39 +46,32 @@ I love turning complex requirements into **clean, efficient, and high-impact sol
 
 ## 📂 Featured Projects  
 
-### 📌 WhatsSuite Backend  
+### 📌 WhatsSuite  
 _TypeScript + Prisma backend for scalable WhatsApp Business API integrations with Redis caching and authentication._  
-🔗 [GitHub Repo](https://github.com/pushpraj-rmx) | 🛠 Tech: TypeScript, Node.js, Prisma, Redis, Express.js
+🔗 [GitHub Repo](https://github.com/Anubhav-software/whatsapp-saas) | 🛠 Tech: TypeScript, Node.js, Prisma, Redis, Express.js
 
 ---
 
-### 📌 Modular Link Shortener  
-_NestJS + React project with analytics and modular architecture for easy scaling._  
-🔗 [GitHub Repo](https://github.com/pushpraj-rmx) | 🛠 Tech: NestJS, React, PostgreSQL
+### 📌 BNI Network  
+Javascript + EJS + React project with analytics and modular architecture for easy scaling._  
+🔗 [GitHub Repo](https://github.com/Anubhav-software/bni-dashboard) | 🛠 Tech: NestJS, React, PostgreSQL
 
 ---
 
-### 📌 Banner Management System  
+### 📌 PlanAndBookTrip
 _Node.js + JSON storage (PostgreSQL-ready) with full CRUD, image uploads, and admin control panel._  
-🔗 [GitHub Repo](https://github.com/pushpraj-rmx) | 🛠 Tech: Node.js, EJS, Multer
+🔗 [GitHub Repo](https://github.com/Anubhav-software/bni-dashboard) | 🛠 Tech: Node.js, EJS, Multer, Shadcn
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpraj-rmx&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpraj-rmx&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=pushpraj-rmx&theme=tokyonight&hide_border=false)
-
----
 
 ## 📌 What I’m Looking For  
-Remote or hybrid **Full-Stack / DevOps Engineer** role in a **mid-to-large company**.  
+Remote or hybrid **Full-Stack** role in a **mid-to-large company**.  
 Opportunities to work with **modern tech stacks, collaborative teams, and impactful projects**.
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pushpraj-rmx)  
-[![GitHub](https://img.shields.io/badge/GitHub-pushpraj--rmx-black?style=flat-square&logo=github)](https://github.com/pushpraj-rmx)  
-📧 Email: pushprajdwivedi001@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anubhav-rawat-40162422b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-pushpraj--rmx-black?style=flat-square&logo=github)](https://github.com/Anubhav-software)  
+📧 Email: rawaanubhav085@gmail.com
