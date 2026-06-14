@@ -1,77 +1,91 @@
-# 💻 Anubhav Rawat — Full-Stack Developer
+<h1 align="center">Hi 👋, I'm Anubhav Rawat</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anubhav-rawat-40162422b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Anubhav--rmx-black?style=flat-square&logo=github)](https://github.com/Anubhav-software)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:rawatanubhav085@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=pushpraj-rmx&style=flat-square&color=blue)
+<h3 align="center">Full-Stack Developer & AI Engineer — building scalable, production-grade AI applications end to end</h3>
 
----
-
-## 🚀 About Me  
-I’m a **Full-Stack** passionate about building **scalable, reliable systems**.  
-Proficient in **React, Node.js, Express.js, and TypeScript** with strong supporting skills in **Linux, CI/CD pipelines, GitHub Actions, and VPS management**.  
-I love turning complex requirements into **clean, efficient, and high-impact solutions**.
+<p align="center">
+  <a href="https://anubhav-software.github.io/">🌐 Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/anubhav-rawat-40162422b/">💼 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://github.com/Anubhav-software">🐙 GitHub</a>
+</p>
 
 ---
 
-## 🛠 Tech Stack  
+### 🚀 About Me
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN_UI-black?style=flat-square)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Database**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**DevOps & Tools**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logo=githubactions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS%20Management-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+- 🔭 Full-stack engineer specializing in **React** + **Node.js / NestJS**, layered with **production-grade GenAI**.
+- 🧠 I build AI features that hold up in **production, not just demos** — focused on retrieval accuracy, grounding/hallucination control, evals, and LLM cost engineering.
+- 🛠️ Shipped products: a **WhatsApp marketing SaaS**, an **LMS with HLS video streaming**, and an **ERP with an integrated AI chatbot**.
+- 🌱 Currently going deeper into **agentic systems, MCP (Model Context Protocol), and the Vercel AI SDK**.
+- 💬 Ask me about **RAG, pgvector, LLM evals, NestJS architecture, and scaling background jobs**.
 
 ---
 
-## 📂 Featured Projects  
+### 🧰 Tech Stack
 
-### 📌 WhatsSuite  
-_TypeScript + Prisma backend for scalable WhatsApp Business API integrations with Redis caching and authentication._  
-🔗 [GitHub Repo](https://github.com/Anubhav-software/whatsapp-saas) | 🛠 Tech: TypeScript, Node.js, Prisma, Redis, Express.js
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Database & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**AI / GenAI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+`RAG` &nbsp; `pgvector` &nbsp; `Embeddings` &nbsp; `LLM Evals` &nbsp; `Agentic Systems` &nbsp; `MCP` &nbsp; `Vercel AI SDK` &nbsp; `BullMQ` &nbsp; `Prompt Engineering`
 
 ---
 
-### 📌 BNI Network  
-Javascript + EJS + React project with analytics and modular architecture for easy scaling._  
-🔗 [GitHub Repo](https://github.com/Anubhav-software/bni-dashboard) | 🛠 Tech: NestJS, React, PostgreSQL
+### 📌 Featured Projects
+
+| Project | What it is | Highlights |
+| :--- | :--- | :--- |
+| **AI-Native ERP** | ERP platform with an integrated AI chatbot | Production RAG on **pgvector**, grounding, **LLM evals**, token-cost optimization |
+| **MsgBuddy** | WhatsApp marketing & campaign SaaS | **BullMQ + Redis** queue pipeline, retries/backoff, DLT (TRAI) compliance |
+| **Cosmoriya** | LMS / CMS platform | **HLS video streaming** for secure, scalable content delivery |
+
+> 💡 More projects and detailed write-ups on my [portfolio](https://anubhav-software.github.io/).
 
 ---
 
-### 📌 PlanAndBookTrip
-_Node.js + JSON storage (PostgreSQL-ready) with full CRUD, image uploads, and admin control panel._  
-🔗 [GitHub Repo](https://github.com/Anubhav-software/bni-dashboard) | 🛠 Tech: Node.js, EJS, Multer, Shadcn
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anubhav-software&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Anubhav's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav-software&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav-software&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
+### 🎯 What I'm focused on
 
-## 📌 What I’m Looking For  
-Remote or hybrid **Full-Stack** role in a **mid-to-large company**.  
-Opportunities to work with **modern tech stacks, collaborative teams, and impactful projects**.
+> Building **AI that ships** — the kind that's reliable, grounded, and cost-aware in production, on top of a solid full-stack foundation.
 
----
-
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anubhav-rawat-40162422b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Anubhav--rmx-black?style=flat-square&logo=github)](https://github.com/Anubhav-software)  
-📧 Email: rawaanubhav085@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/anubhav-rawat-40162422b/">
+    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://anubhav-software.github.io/">
+    <img src="https://img.shields.io/badge/View_Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
